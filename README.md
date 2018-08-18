@@ -1,2 +1,1 @@
-# hvezdarna-camera
-Project to create UVC camera translation
+See https://github.com/samm-git/hvezdarna-camera/wiki
